@@ -10,12 +10,17 @@ body {
         position: fixed;
         bottom: 0;
     }
-h{
+h1{
     font-size: 67px;
      @font-face{
-    font-family:'myFirstFont';
-    src:url('./29057201328.ttf') format('truetype');
+        font-family:'myFirstFont';
+        src:url('./29057201328.ttf') format('truetype');
     }
-    .content{font-family:'myFirstFont';};
+    color: #fff;
+    font-family:'myFirstFont';
     text-align: center;
+
+
+
+
 }
